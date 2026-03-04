@@ -1,0 +1,20 @@
+TB Screening Guidelines (Simplified)
+
+Rule 1:
+If patient has cough for more than 14 days → Suspected TB case.
+
+Rule 2:
+If cough >14 days + weight loss → High suspicion TB.
+
+Rule 3:
+If cough >14 days + fever + night sweats → High suspicion TB.
+
+Action:
+Recommend sputum test at nearest health center.
+
+Escalation:
+Refer the patient to ANM or doctor for further evaluation.
+
+Important:
+This system does NOT diagnose TB.
+It only suggests screening actions based on guidelines.
